@@ -22,6 +22,7 @@ assignees: ''
 - [ ] All templates finalized and ready to push
 
 **PHASE 4 | DISTRIBUTION** 
+- [ ] Medium
 - [ ] Twitter
 - [ ] LinkedIn 
 - [ ] CoinMarketCap 
