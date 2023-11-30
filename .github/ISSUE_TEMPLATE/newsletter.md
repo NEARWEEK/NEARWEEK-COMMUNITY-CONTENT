@@ -8,7 +8,6 @@ assignees: P3ter-NEARWEEK
 ---
 
 **PHASE 1 | AGGREGATION, DESIGN, APPROVAL**
-- [ ] Stats ready @b4ltasar 
 - [ ] Cover ready  @b4ltasar 
 - [ ] Draft ready @Kaisenbeet
 - [ ] Draft approved @P3ter-NEARWEEK
