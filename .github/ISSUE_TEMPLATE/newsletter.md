@@ -8,6 +8,9 @@ assignees: P3ter-NEARWEEK
 ---
 
 **PHASE 1 | AGGREGATION, DESIGN, APPROVAL**
+- [ ] Create bounty
+- [ ] Assign contributor
+
 - [ ] Cover ready  @b4ltasar 
 - [ ] Draft ready @Kaisenbeet
 - [ ] Draft approved @P3ter-NEARWEEK
