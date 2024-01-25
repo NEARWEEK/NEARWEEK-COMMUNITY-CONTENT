@@ -2,8 +2,8 @@
 name: BLOGPOST
 about: BLOGPOST
 title: ''
-labels: Blogpost
-assignees: ''
+labels: Blogpost, Twitterspace
+assignees: b4ltasar
 
 ---
 
