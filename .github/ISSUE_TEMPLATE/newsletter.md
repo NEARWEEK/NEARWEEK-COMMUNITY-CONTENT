@@ -3,7 +3,7 @@ name: NEWSLETTER
 about: NEWSLETTER
 title: ''
 labels: Newsletter
-assignees: P3ter-NEARWEEK
+assignees: P3ter-NEARWEEK, Kaisenbeet
 
 ---
 
