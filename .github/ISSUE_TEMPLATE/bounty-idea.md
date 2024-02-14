@@ -2,7 +2,7 @@
 name: BOUNTY IDEA
 about: Describe a bounty
 title: ''
-labels: ''
+labels: HEROES CAMPAIGN
 assignees: ''
 
 ---
