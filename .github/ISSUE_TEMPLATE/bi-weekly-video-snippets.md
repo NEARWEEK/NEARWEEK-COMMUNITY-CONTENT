@@ -2,8 +2,8 @@
 name: BI-WEEKLY VIDEO SNIPPETS
 about: Describe this issue template's purpose here.
 title: BI-WEEKLY VIDEO SNIPPETS
-labels: Twitterpost, Video
-assignees: frdrkhnssn
+labels: Twitterpost, Twitterspace, Video
+assignees: frdrkhnssn, b4ltasar
 
 ---
 

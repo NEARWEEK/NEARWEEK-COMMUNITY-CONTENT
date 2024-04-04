@@ -2,7 +2,7 @@
 name: BLOGPOST
 about: BLOGPOST
 title: ''
-labels: Blogpost, Twitterspace
+labels: Blogpost
 assignees: b4ltasar
 
 ---
